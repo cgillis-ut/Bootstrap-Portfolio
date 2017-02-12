@@ -35,7 +35,7 @@ body {
   font-size: 18px;
   color: #777;
   line-height: 34px;
-  background: url("https://github.com/christinegillis/Basic-Portfolio/blob/master/assets/images/seigaiha.png?raw=true");
+  background-color: #e6f5ff;
 }
 
 * {
@@ -48,8 +48,8 @@ body {
 .container {
   clear: both;
   width: 100%;
-  padding:150px 0px 10px 0px;
-  width: 960px;
+  padding:150px 30px 120px 0px;
+  width: 70%;
 }
 
 h1,
